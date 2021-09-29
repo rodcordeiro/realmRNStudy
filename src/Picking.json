@@ -1,0 +1,2150 @@
+{
+  "pedido": "111053",
+  "totalizador": 4517,
+  "enderecos": [
+    {
+      "codigo": "3518",
+      "descricao": "01.05.22.00.002",
+      "ordem": 1485,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "3518",
+          "tipo": "PR",
+          "codigo": "25695",
+          "quantidade": 10,
+          "barras": [
+            {
+              "codigoBarra": "7893220253959",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220253956",
+              "quantidade": 2
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25695"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Suqueira Folhagem com pe em cristal ecologico 4,5l                                                  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "11763",
+      "descricao": "01.05.35.00.006",
+      "ordem": 1563,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "11763",
+          "tipo": "PR",
+          "codigo": "26733",
+          "quantidade": 168,
+          "barras": [
+            {
+              "codigoBarra": "7893220268113",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220268117",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220268110",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26733"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Sousplat Perola em plastico D36cm cor preta                                                         "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "11935",
+      "descricao": "01.06.26.00.004",
+      "ordem": 1977,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "11935",
+          "tipo": "PR",
+          "codigo": "24587       ",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220242991",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220242998",
+              "quantidade": 4
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "24587       "
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 3 porta mantimentos redondos em vidro liso 750 ml/1L/1,5L                                   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4334",
+      "descricao": "01.06.22.00.002",
+      "ordem": 1997,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4334",
+          "tipo": "PR",
+          "codigo": "26302",
+          "quantidade": 98,
+          "barras": [
+            {
+              "codigoBarra": "7893220262357",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220262354",
+              "quantidade": 36
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26302"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 3 bowls redondos em porcelana L10,4xP9,7xA4cm                                               "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "11912",
+      "descricao": "01.06.18.00.005",
+      "ordem": 2017,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "11912",
+          "tipo": "PR",
+          "codigo": "26022",
+          "quantidade": 24,
+          "barras": [
+            {
+              "codigoBarra": "7893220257858",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220257855",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26022"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Tabua para corte em bambu com bandeja em aco inox L35,3xP22,7xA4,3cm                                "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4285",
+      "descricao": "01.06.18.00.001",
+      "ordem": 2017,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4285",
+          "tipo": "PR",
+          "codigo": "25777",
+          "quantidade": 10,
+          "barras": [
+            {
+              "codigoBarra": "7893220254970",
+              "quantidade": 1
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25777"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Garrafa termica revestida com rattan de plastico 1L L18xP14,5xA26,5cm cor branca                    "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12116",
+      "descricao": "01.06.17.00.005",
+      "ordem": 2022,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12116",
+          "tipo": "PR",
+          "codigo": "13072",
+          "quantidade": 144,
+          "barras": [
+            {
+              "codigoBarra": "7893220083945",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220083949",
+              "quantidade": 36
+            },
+            {
+              "codigoBarra": "17893220083942",
+              "quantidade": 144
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "13072"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Saca rolhas em aco inox 2 estagios L2xP1,5xA11,5cm cor preta                                        "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4273",
+      "descricao": "01.06.17.00.001",
+      "ordem": 2022,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4273",
+          "tipo": "PR",
+          "codigo": "12674",
+          "quantidade": 96,
+          "barras": [
+            {
+              "codigoBarra": "7893220072840",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220072847",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "12674"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Coqueteleira em aco inox 500ml D8xA21cm                                                             "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12111",
+      "descricao": "01.06.15.00.006",
+      "ordem": 2032,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12111",
+          "tipo": "PR",
+          "codigo": "26156",
+          "quantidade": 96,
+          "barras": [
+            {
+              "codigoBarra": "7893220259258",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220259252",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220259255",
+              "quantidade": 48
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26156"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Caneca para cerveja Beer Mug em vidro 380ml A12cm                                                   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4250",
+      "descricao": "01.06.15.00.002",
+      "ordem": 2032,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4250",
+          "tipo": "PR",
+          "codigo": "26897",
+          "quantidade": 40,
+          "barras": [
+            {
+              "codigoBarra": "7893220269752",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220269759",
+              "quantidade": 10
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26897"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Faqueiro Bambu com 24 pecas em aco inox com cabo estilo bambu em caixa de madeira                   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4189",
+      "descricao": "01.06.10.00.001",
+      "ordem": 2057,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4189",
+          "tipo": "PR",
+          "codigo": "26089",
+          "quantidade": 120,
+          "barras": [
+            {
+              "codigoBarra": "7893220258527",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220258524",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26089"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Vaso floreiro Chevalier acinturado em cristal ecologico D13xA24cm                                   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4190",
+      "descricao": "01.06.10.00.002",
+      "ordem": 2057,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4190",
+          "tipo": "PR",
+          "codigo": "58569",
+          "quantidade": 60,
+          "barras": [
+            {
+              "codigoBarra": "7893220262845",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220262842",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "58569"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Kit de 04 pecas para Gin Bohemia Authentic Collection L31xP31xA13cm cor preto                       "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4141",
+      "descricao": "01.06.06.00.001",
+      "ordem": 2077,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4141",
+          "tipo": "PR",
+          "codigo": "24133",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220237829",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220237826",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "24133"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jarra Bretagne em vidro 1,6L                                                                        "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4118",
+      "descricao": "01.06.04.00.002",
+      "ordem": 2087,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4118",
+          "tipo": "PR",
+          "codigo": "25776",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220254963",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220254960",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25776"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Garrafa termica revestida com rattan de plastico 1L L18xP14,5xA26,5cm cor marrom                    "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4910",
+      "descricao": "01.07.02.00.002",
+      "ordem": 2112,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4910",
+          "tipo": "PR",
+          "codigo": "27644",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220277542",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220277549",
+              "quantidade": 36
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27644"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 2 copos parede dupla em vidro borossilicato 90ml                                            "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4982",
+      "descricao": "01.07.08.00.002",
+      "ordem": 2138,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4982",
+          "tipo": "PR",
+          "codigo": "25729",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220254444",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220254448",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220254441",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25729"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Porta mantimento redondo em vidro borossilicato com tampa de metal prata 1,8L D10xA27,5cm           "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "4993",
+      "descricao": "01.07.09.00.001",
+      "ordem": 2143,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "4993",
+          "tipo": "PR",
+          "codigo": "21994",
+          "quantidade": 80,
+          "barras": [
+            {
+              "codigoBarra": "7893220216404",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220216401",
+              "quantidade": 8
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "21994"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 6 copos altos Dover em vidro 425ml A13cm transparente                                       "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5041",
+      "descricao": "01.07.13.00.001",
+      "ordem": 2163,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5041",
+          "tipo": "PR",
+          "codigo": "26092",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220258558",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220258555",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26092"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Potiche Folhagem com pe em cristal D11xA24,5cm                                                      "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12319",
+      "descricao": "01.07.18.00.004",
+      "ordem": 2188,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12319",
+          "tipo": "PR",
+          "codigo": "26091",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220258541",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220258548",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26091"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Potiche Classica com pe em cristal D11xA24,5cm                                                      "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12328",
+      "descricao": "01.07.20.00.007",
+      "ordem": 2198,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12328",
+          "tipo": "PR",
+          "codigo": "27223",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220273032",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220273039",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27223"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Vaso floreiro Chevalier solitario em cristal ecologico D8xA18cm cor rosa                            "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5125",
+      "descricao": "01.07.20.00.001",
+      "ordem": 2198,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5125",
+          "tipo": "PR",
+          "codigo": "25978",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220257407",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220257404",
+              "quantidade": 36
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25978"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Porta sabonete Gabinetto em ceramica D8xA17,2cm 370ml cor marrom                                    "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12547",
+      "descricao": "01.07.25.00.004",
+      "ordem": 2223,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12547",
+          "tipo": "PR",
+          "codigo": "26305",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220262388",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220262385",
+              "quantidade": 36
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26305"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Petisqueira com 3 divisorias em porcelana L25,7xP12,1xA3,5cm                                        "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5222",
+      "descricao": "01.07.28.00.002",
+      "ordem": 2238,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5222",
+          "tipo": "PR",
+          "codigo": "25445",
+          "quantidade": 12,
+          "barras": [
+            {
+              "codigoBarra": "7893220251061",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220251068",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25445"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jarra Fratello em vidro 1,6L                                                                        "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12360",
+      "descricao": "01.07.32.00.003",
+      "ordem": 2258,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12360",
+          "tipo": "PR",
+          "codigo": "27379",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "8693395042179",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "86933950421796",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27379"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Porta mantimento redondo Royal em vidro com tampa em plastico cor cinza 1L D12xA18cm                "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12371",
+      "descricao": "01.07.34.00.008",
+      "ordem": 2268,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12371",
+          "tipo": "PR",
+          "codigo": "26217",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220259890",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220259897",
+              "quantidade": 48
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26217"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Coador de bebidas em aco inox A14cm cabo cor preta                                                  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13715",
+      "descricao": "01.07.44.00.001",
+      "ordem": 2318,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13715",
+          "tipo": "PR",
+          "codigo": "26237",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220260094",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220260091",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26237"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Bandeja redonda em aco inox D35xA2,8cm                                                              "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12607",
+      "descricao": "01.07.45.00.004",
+      "ordem": 2323,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12607",
+          "tipo": "PR",
+          "codigo": "26224",
+          "quantidade": 120,
+          "barras": [
+            {
+              "codigoBarra": "7893220259968",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220259965",
+              "quantidade": 120
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26224"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Colher bailarina com garfo tridente em aco inox A23cm                                               "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5606",
+      "descricao": "01.07.60.00.002",
+      "ordem": 2394,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5606",
+          "tipo": "PR",
+          "codigo": "26560",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220266294",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220266291",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26560"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo para refresco Brigite 7 pecas em vidro (1950ml+6x330ml)                                        "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "6409",
+      "descricao": "01.08.59.00.001",
+      "ordem": 2484,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "6409",
+          "tipo": "PR",
+          "codigo": "27222",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220273025",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220273022",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27222"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Vaso floreiro Chevalier solitario em cristal ecologico D8xA18cm cor ambar                           "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "6374",
+      "descricao": "01.08.56.00.002",
+      "ordem": 2499,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "6374",
+          "tipo": "PR",
+          "codigo": "27367",
+          "quantidade": 96,
+          "barras": [
+            {
+              "codigoBarra": "8693395042384",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "86933950423844",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27367"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jarra Stripe em vidro 1,6L com tampa cor cinza                                                      "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "6289",
+      "descricao": "01.08.49.00.001",
+      "ordem": 2534,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "6289",
+          "tipo": "PR",
+          "codigo": "57829",
+          "quantidade": 108,
+          "barras": [
+            {
+              "codigoBarra": "7893220201660",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220201667",
+              "quantidade": 4
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "57829"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 3 porta mantimentos quadrados em vidro liso com tampa 790ml/1,2L/1,6L                       "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13012",
+      "descricao": "01.08.43.00.007",
+      "ordem": 2564,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13012",
+          "tipo": "PR",
+          "codigo": "26202",
+          "quantidade": 96,
+          "barras": [
+            {
+              "codigoBarra": "7893220259746",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220259743",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26202"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Porta talheres em fibra sintetica L34xP26xA6cm cor marrom                                           "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12785",
+      "descricao": "01.08.36.00.008",
+      "ordem": 2599,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12785",
+          "tipo": "PR",
+          "codigo": "25699",
+          "quantidade": 10,
+          "barras": [
+            {
+              "codigoBarra": "7893220253997",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220253994",
+              "quantidade": 2
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25699"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Suqueira Fratello com pe em cristal ecologico 4,5l                                                  "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12982",
+      "descricao": "01.08.33.00.007",
+      "ordem": 2614,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12982",
+          "tipo": "PR",
+          "codigo": "27225",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220273056",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220273053",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27225"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Vaso floreiro Classica solitario em cristal ecologico D8xA18cm cor rosa                             "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12756",
+      "descricao": "01.08.28.00.003",
+      "ordem": 2639,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12756",
+          "tipo": "PR",
+          "codigo": "26744",
+          "quantidade": 168,
+          "barras": [
+            {
+              "codigoBarra": "7893220268229",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220268223",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220268226",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26744"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Sousplat Rede em plastico D33cm cor dourada                                                         "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12736",
+      "descricao": "01.08.20.00.007",
+      "ordem": 2679,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12736",
+          "tipo": "PR",
+          "codigo": "26808       ",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220268861",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268868",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26808       "
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 3 pecas para sushi em bambu L33xP18xA4cm                                                    "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12726",
+      "descricao": "01.08.18.00.003",
+      "ordem": 2689,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12726",
+          "tipo": "PR",
+          "codigo": "13253",
+          "quantidade": 96,
+          "barras": [
+            {
+              "codigoBarra": "7893220086885",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220086882",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "13253"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Coqueteleira em aco inox 750ml D8xA20,5                                                             "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12729",
+      "descricao": "01.08.18.00.006",
+      "ordem": 2689,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12729",
+          "tipo": "PR",
+          "codigo": "26816",
+          "quantidade": 60,
+          "barras": [
+            {
+              "codigoBarra": "7893220268946",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268943",
+              "quantidade": 20
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26816"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Manteigueira em bambu L19xP12,5xA6cm                                                                "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12724",
+      "descricao": "01.08.16.00.007",
+      "ordem": 2699,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12724",
+          "tipo": "PR",
+          "codigo": "26804",
+          "quantidade": 24,
+          "barras": [
+            {
+              "codigoBarra": "7893220268823",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268820",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26804"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 2 pecas em bambu e vidro L34xP22xA2cm                                                       "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12928",
+      "descricao": "01.08.15.00.007",
+      "ordem": 2704,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12928",
+          "tipo": "PR",
+          "codigo": "26800",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220268786",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268783",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26800"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 2 pecas para pizza em bambu D35xA2,5cm                                                      "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12719",
+      "descricao": "01.08.14.00.008",
+      "ordem": 2709,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12719",
+          "tipo": "PR",
+          "codigo": "25985",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220257476",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220257473",
+              "quantidade": 18
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25985"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 3 pecas para cozinha em ceramica L11,3xP10xA21cm 430ml cor preta                            "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5846",
+      "descricao": "01.08.12.00.002",
+      "ordem": 2719,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5846",
+          "tipo": "PR",
+          "codigo": "25013",
+          "quantidade": 288,
+          "barras": [
+            {
+              "codigoBarra": "7893220248078",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220248072",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220248075",
+              "quantidade": 144
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25013"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Lugar Americano em plastico Bon Appetit L43,5xP28,5cm cor cinza                                     "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12704",
+      "descricao": "01.08.10.00.005",
+      "ordem": 2729,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12704",
+          "tipo": "PR",
+          "codigo": "26802",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220268809",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268806",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26802"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 3 pecas para queijo em ardosia L30xP15xA2cm                                                 "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "12910",
+      "descricao": "01.08.09.00.007",
+      "ordem": 2734,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "12910",
+          "tipo": "PR",
+          "codigo": "26812",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220268908",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268905",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26812"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Tabua para corte em bambu L33xP18xA1,2cm                                                            "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5798",
+      "descricao": "01.08.08.00.002",
+      "ordem": 2739,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5798",
+          "tipo": "PR",
+          "codigo": "26813",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220268915",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268912",
+              "quantidade": 18
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26813"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Tabua para corte em bambu L40xP20xA1,2cm                                                            "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5738",
+      "descricao": "01.08.03.00.002",
+      "ordem": 2764,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5738",
+          "tipo": "PR",
+          "codigo": "25728",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220254437",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220254431",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220254434",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25728"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Porta mantimento redondo em vidro borossilicato com tampa de metal prata 1,4L D10xA22cm             "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "5726",
+      "descricao": "01.08.02.00.002",
+      "ordem": 2769,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "5726",
+          "tipo": "PR",
+          "codigo": "26619",
+          "quantidade": 96,
+          "barras": [
+            {
+              "codigoBarra": "7893220266980",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220266987",
+              "quantidade": 48
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26619"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Porta sabonete Splendor em vidro D7xA16cm 300ml cor furta cor                                       "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "6601",
+      "descricao": "01.09.07.00.001",
+      "ordem": 2809,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "6601",
+          "tipo": "PR",
+          "codigo": "57283",
+          "quantidade": 32,
+          "barras": [
+            {
+              "codigoBarra": "8591651999215",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "18591651999212",
+              "quantidade": 8
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "57283"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de decanter e 2 tacas Forum em cristal ecologico (1,5L+2x450ml)                                "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13322",
+      "descricao": "01.09.11.00.005",
+      "ordem": 2829,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13322",
+          "tipo": "PR",
+          "codigo": "23302",
+          "quantidade": 36,
+          "barras": [
+            {
+              "codigoBarra": "7893220228445",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220228442",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "23302"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Coqueteleira em aco inox com receitas 650ml                                                         "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13129",
+      "descricao": "01.09.16.00.004",
+      "ordem": 2854,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13129",
+          "tipo": "PR",
+          "codigo": "25643",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220253409",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220253406",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25643"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Galheteiro em vidro borossilicato L9,3xP9,3xA21cm (70mlx490ml)                                      "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13138",
+      "descricao": "01.09.18.00.007",
+      "ordem": 2864,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13138",
+          "tipo": "PR",
+          "codigo": "26822       ",
+          "quantidade": 64,
+          "barras": [
+            {
+              "codigoBarra": "7893220269004",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220269001",
+              "quantidade": 32
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26822       "
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Petisqueira quadrada em bambu L20xP20xA1,6cm                                                        "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13160",
+      "descricao": "01.09.26.00.005",
+      "ordem": 2904,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13160",
+          "tipo": "PR",
+          "codigo": "26737",
+          "quantidade": 168,
+          "barras": [
+            {
+              "codigoBarra": "7893220268151",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220268155",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220268158",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26737"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Sousplat Craquelado em plastico D33cm cor rose                                                      "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13172",
+      "descricao": "01.09.30.00.005",
+      "ordem": 2924,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13172",
+          "tipo": "PR",
+          "codigo": "26296",
+          "quantidade": 98,
+          "barras": [
+            {
+              "codigoBarra": "7893220262296",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220262293",
+              "quantidade": 36
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26296"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 3 petisqueiras quadradas em porcelana L8,7xP8,7xA4cm                                        "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13381",
+      "descricao": "01.09.31.00.004",
+      "ordem": 2929,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13381",
+          "tipo": "PR",
+          "codigo": "26745",
+          "quantidade": 168,
+          "barras": [
+            {
+              "codigoBarra": "7893220268236",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "27893220268230",
+              "quantidade": 6
+            },
+            {
+              "codigoBarra": "17893220268233",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26745"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Sousplat Rede em plastico D33cm cor prata                                                           "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "13437",
+      "descricao": "01.09.49.00.006",
+      "ordem": 3019,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "13437",
+          "tipo": "PR",
+          "codigo": "26238",
+          "quantidade": 24,
+          "barras": [
+            {
+              "codigoBarra": "7893220260100",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220260107",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26238"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Bandeja redonda em aco inox D35xA2,8cm cor preta                                                    "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "7129",
+      "descricao": "01.09.51.00.001",
+      "ordem": 3029,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "7129",
+          "tipo": "PR",
+          "codigo": "25951       ",
+          "quantidade": 16,
+          "barras": [
+            {
+              "codigoBarra": "7893220257131",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220257138",
+              "quantidade": 4
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25951       "
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo para refresco 7 pecas Fratello em vidro (1,6L+6x355ml)                                         "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "7189",
+      "descricao": "01.09.56.00.001",
+      "ordem": 3054,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "7189",
+          "tipo": "PR",
+          "codigo": "27380",
+          "quantidade": 156,
+          "barras": [
+            {
+              "codigoBarra": "8693395042186",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "86933950421864",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27380"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Porta mantimento redondo Royal em vidro com tampa em plastico cor cinza 1,5L D12xA22cm              "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "7190",
+      "descricao": "01.09.56.00.002",
+      "ordem": 3054,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "7190",
+          "tipo": "PR",
+          "codigo": "25790",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220255489",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220255486",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25790"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 6 xicaras plain Coffee Time em vidro 80ml                                                   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "7849",
+      "descricao": "01.10.43.00.001",
+      "ordem": 3244,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "7849",
+          "tipo": "PR",
+          "codigo": "25425",
+          "quantidade": 24,
+          "barras": [
+            {
+              "codigoBarra": "7893220250866",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220250863",
+              "quantidade": 4
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "25425"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 6 tacas Glasgow em vidro 330ml A16,5cm cor verde                                            "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "7838",
+      "descricao": "01.10.42.00.002",
+      "ordem": 3249,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "7838",
+          "tipo": "PR",
+          "codigo": "26559",
+          "quantidade": 72,
+          "barras": [
+            {
+              "codigoBarra": "7893220266287",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220266284",
+              "quantidade": 6
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26559"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo para refresco Galaxy 7 pecas em vidro (1950ml+6x330ml)                                         "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "7814",
+      "descricao": "01.10.40.00.002",
+      "ordem": 3259,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "7814",
+          "tipo": "PR",
+          "codigo": "58602",
+          "quantidade": 120,
+          "barras": [
+            {
+              "codigoBarra": "8593401930707",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "18593401930704",
+              "quantidade": 12
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "58602"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 2 tacas para gin tonica Anna em cristal ecologico 600ml A19cm                               "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "7789",
+      "descricao": "01.10.38.00.001",
+      "ordem": 3269,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "7789",
+          "tipo": "PR",
+          "codigo": "26817",
+          "quantidade": 60,
+          "barras": [
+            {
+              "codigoBarra": "7893220268953",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220268950",
+              "quantidade": 20
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26817"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Queijeira em bambu D18,8xA8cm                                                                       "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "14361",
+      "descricao": "01.10.25.00.021",
+      "ordem": 3334,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "14361",
+          "tipo": "PR",
+          "codigo": "27372",
+          "quantidade": 27,
+          "barras": [
+            {
+              "codigoBarra": "8693395041240",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "86933950412404",
+              "quantidade": 9
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "27372"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jarra Flore em vidro 1L com tampa cor cinza                                                         "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "codigo": "14060",
+      "descricao": "01.10.13.00.020",
+      "ordem": 3394,
+      "unidadeArmazenagem": [
+        {
+          "barraEndereco": "14060",
+          "tipo": "PR",
+          "codigo": "26236",
+          "quantidade": 48,
+          "barras": [
+            {
+              "codigoBarra": "7893220260087",
+              "quantidade": 1
+            },
+            {
+              "codigoBarra": "17893220260084",
+              "quantidade": 24
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "26236"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Jogo de 4 medidores em aco inox 60/80/125/250ml cor cobre                                           "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
