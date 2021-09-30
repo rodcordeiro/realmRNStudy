@@ -58,6 +58,21 @@ export default class Database {
     const task = tasks.filtered(`_id = ${id}`)[0];
     console.log(task);
   }
+  findByText(text: string) {
+    const tasks = this.cursor.objects('Task');
+    const task = tasks.filtered(`text = '${text}'`)[0];
+    console.log(task);
+  }
+  delete(id: number) {
+    const tasks = this.cursor.objects('Task');
+    const task = tasks.filtered(`_id = ${id}`)[0];
+    this.cursor.write(() => {
+      this.cursor.delete(task);
+    });
+  }
+  clearDatabase() {
+    this.cursor.deleteAll();
+  }
 }
 
 // // Sort tasks by name in ascending order

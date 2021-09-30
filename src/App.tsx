@@ -11,20 +11,29 @@
 import React from 'react';
 import { SafeAreaView, StatusBar, StyleSheet, Text } from 'react-native';
 
-import Database from './database';
-
+import Database from './database/picking';
+import Data from './Picking.json';
 
 const App = () => {
   const db = new Database();
-  db.listAll();
-  db.findById(1);
-  // db.add('Teste 1');
-  // db.add('Teste 2');
-  // db.add('Teste 3');
+  db.clearDatabase();
+  db.storeOrder(Data);
+
+  const address = db.getAddress();
+  
+  console.log({ address });
   return (
     <SafeAreaView style={styles.Container}>
       <StatusBar hidden={true} />
       <Text style={styles.Title}>Tasks</Text>
+      <Text style={styles.Title}>{address.descricao}</Text>
+      {address.unidadeArmazenagem.map((Produto,index)=>(
+        <>
+        <Text key={index}>Produto=>{Produto.codigo}</Text>
+        <Text key={index}>{Produto.detalhes[0].campo}: {Produto.detalhes[0].valor}</Text>
+        <Text key={index}>{Produto.detalhes[1].campo}: {Produto.detalhes[1].valor}</Text>
+        </>
+      ))}
     </SafeAreaView>
   );
 };
