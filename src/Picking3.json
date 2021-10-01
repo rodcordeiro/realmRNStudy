@@ -1,0 +1,95 @@
+[
+    {
+        "codigoPedido": "909090",
+        "totalizador": 15,
+        "enderecos": [
+            {
+                "codigoEndereco": 1,
+                "descricaoEndereco": "R 01 001 01 A",
+                "ordem": 1,
+                "tipo": "PR",
+                "unidade": "25337",
+                "descricaoProduto": "Camiseta Primitive \"Destroyer Washed\" Tie Dye Verde/Branco  XXG",
+                "quantidade": 5,
+                "barras": [
+                    {
+                        "ean": "OC25337",
+                        "quantidade": 2
+                    },
+                    {
+                        "ean": "PAPSU2031-LIM-XXL",
+                        "quantidade": 1
+                    }
+                ],
+                "detalhes": [
+                    {
+                        "campo": "Produto",
+                        "valor": "25337"
+                    },
+                    {
+                        "campo": "Descrição",
+                        "valor": "Camiseta Primitive \"Destroyer Washed\" Tie Dye Verde/Branco  XXG"
+                    }
+                ]
+            },
+            {
+                "codigoEndereco": 1,
+                "descricaoEndereco": "R 01 001 01 A",
+                "ordem": 1,
+                "tipo": "PR",
+                "unidade": "25341",
+                "descricaoProduto": "Camiseta Primitive \"Shadow Goku Washed\" Tie Dye Laranja/Branco  P",
+                "quantidade": 5,
+                "barras": [
+                    {
+                        "ean": "OC25341",
+                        "quantidade": 1
+                    },
+                    {
+                        "ean": "PAPSU2030-ORG-S",
+                        "quantidade": 1
+                    }
+                ],
+                "detalhes": [
+                    {
+                        "campo": "Produto",
+                        "valor": "25341"
+                    },
+                    {
+                        "campo": "Descrição",
+                        "valor": "Camiseta Primitive \"Shadow Goku Washed\" Tie Dye Laranja/Branco  P"
+                    }
+                ]
+            },
+            {
+                "codigoEndereco": 1,
+                "descricaoEndereco": "R 01 001 01 A",
+                "ordem": 1,
+                "tipo": "PR",
+                "unidade": "25345",
+                "descricaoProduto": "Camiseta Primitive \"Shadow Goku Washed\" Tie Dye Laranja/Branco  XXG",
+                "quantidade": 5,
+                "barras": [
+                    {
+                        "ean": "OC25345",
+                        "quantidade": 1
+                    },
+                    {
+                        "ean": "PAPSU2030-ORG-XXL",
+                        "quantidade": 1
+                    }
+                ],
+                "detalhes": [
+                    {
+                        "campo": "Produto",
+                        "valor": "25345"
+                    },
+                    {
+                        "campo": "Descrição",
+                        "valor": "Camiseta Primitive \"Shadow Goku Washed\" Tie Dye Laranja/Branco  XXG"
+                    }
+                ]
+            }
+        ]
+    }
+]

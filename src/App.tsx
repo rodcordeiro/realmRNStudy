@@ -1,39 +1,97 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * Generated with the TypeScript template
- * https://github.com/react-native-community/react-native-template-typescript
- *
- * @format
- */
+import React, { useState, useEffect } from 'react';
+import {
+  SafeAreaView,
+  StatusBar,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
+} from 'react-native';
 
-import React from 'react';
-import { SafeAreaView, StatusBar, StyleSheet, Text } from 'react-native';
+import ProgressBar from 'react-native-progress/Bar';
 
-import Database from './database/picking';
-import Data from './Picking.json';
+import Database, { iEndereco } from './database';
+import Dados from './Picking.json';
 
 const App = () => {
+  const total = 3500,
+    [coletado, setColetado] = useState(0),
+    [progress, setProgress] = useState(0);
+
+  const [address, setAddress] = useState(null),
+    [details, setDetails] = useState([
+      {
+        campo: 'Produto',
+        valor: '21799',
+      },
+      {
+        campo: 'Descrição',
+        valor: 'Camiseta Overcome "Boat Ride" Branca  GG',
+      },
+    ]);
+
   const db = new Database();
   db.clearDatabase();
-  db.storeOrder(Data);
 
-  const address = db.getAddress();
-  
-  console.log({ address });
+  const status = db.save(Dados);
+
+  useEffect(() => {
+    const valor = coletado / total;
+    setProgress(valor);
+  }, [coletado]);
+  useEffect(() => {
+    const t = db.getAddress();
+    console.log({ t });
+    setAddress(t.descricaoEndereco);
+    console.log(t.detalhes);
+    // setDetails(t.detalhes);
+    console.log({ address, details });
+  }, [coletado]);
   return (
     <SafeAreaView style={styles.Container}>
       <StatusBar hidden={true} />
       <Text style={styles.Title}>Tasks</Text>
-      <Text style={styles.Title}>{address.descricao}</Text>
-      {address.unidadeArmazenagem.map((Produto,index)=>(
-        <>
-        <Text key={index}>Produto=>{Produto.codigo}</Text>
-        <Text key={index}>{Produto.detalhes[0].campo}: {Produto.detalhes[0].valor}</Text>
-        <Text key={index}>{Produto.detalhes[1].campo}: {Produto.detalhes[1].valor}</Text>
-        </>
-      ))}
+
+      <ProgressBar
+        progress={progress}
+        width={350}
+        height={30}
+        animated
+        borderRadius={15}
+        borderColor="transparent"
+        unfilledColor="#333"
+        color="#ff9000"
+        style={{
+          outline: 'none',
+          border: 'none',
+        }}
+      />
+
+      <TouchableOpacity
+        onPress={() => {
+          setColetado(coletado + 50);
+        }}>
+        <View style={{ margin: 20 }}>
+          <Text>Update</Text>
+        </View>
+      </TouchableOpacity>
+      <View style={styles.Title}>
+        {address && (
+          <>
+            <Text>{address}</Text>
+            <View style={styles.Section}>
+              {details.map((detail, index) => {
+                console.log(index, detail);
+                return (
+                  <Text key={index}>
+                    {detail.campo}: {detail.valor}
+                  </Text>
+                );
+              })}
+            </View>
+          </>
+        )}
+      </View>
     </SafeAreaView>
   );
 };
@@ -46,16 +104,15 @@ const styles = StyleSheet.create({
   Title: {
     fontSize: 24,
     textAlign: 'center',
-    margin: 10,
+    marginTop: 30,
     padding: 15,
   },
-  sectionDescription: {
+  Section: {
     marginTop: 8,
-    fontSize: 18,
+    borderColor: 'black',
+    borderWidth: 3,
     fontWeight: '400',
-  },
-  highlight: {
-    fontWeight: '700',
+    padding: 30,
   },
 });
 

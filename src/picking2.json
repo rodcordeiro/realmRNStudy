@@ -1,0 +1,83 @@
+[
+    {
+      "codigoPedido": "123456",
+      "totalizador": 7,
+      "enderecos": [
+        {
+          "codigoEndereco": 1,
+          "descricaoEndereco": "R 01 001 01 A",
+          "ordem": 1,
+          "tipo": "PR",
+          "unidade": "654321",
+          "descricaoProduto": "Monitor LG",
+          "quantidade": 3,
+          "barras": [
+            {
+              "ean": "7899876543210",
+              "quantidade": 1
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "654321"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Monitor LG"
+            }
+          ]
+        },
+        {
+          "codigoEndereco": 2,
+          "descricaoEndereco": "R 01 001 01 B",
+          "ordem": 2,
+          "tipo": "PR",
+          "unidade": "654321",
+          "descricaoProduto": "Monitor LG",
+          "quantidade": 1,
+          "barras": [
+            {
+              "ean": "7899876543210",
+              "quantidade": 1
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "654321"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Monitor LG"
+            }
+          ]
+        },
+        {
+          "codigoEndereco": 16,
+          "descricaoEndereco": "R 12 001 01 A",
+          "ordem": 16,
+          "tipo": "PR",
+          "unidade": "123456",
+          "descricaoProduto": "Notebook Dell G3",
+          "quantidade": 3,
+          "barras": [
+            {
+              "ean": "7891234567891",
+              "quantidade": 1
+            }
+          ],
+          "detalhes": [
+            {
+              "campo": "Produto",
+              "valor": "123456"
+            },
+            {
+              "campo": "Descrição",
+              "valor": "Notebook Dell G3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
